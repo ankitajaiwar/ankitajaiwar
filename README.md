@@ -12,12 +12,11 @@ I have been working on mining information from data, creating machine/deep learn
 *   🤝  I'm open to collaborating on Machine learning projects, deep learning projects
 *   ⚡  I love dancing.
 *   
-*   ### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
+
                    
   Tech Stack
+  
+  
 <b>Programming Languages</b>
 
 Python  R 
