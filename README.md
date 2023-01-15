@@ -11,7 +11,7 @@ I have been working on mining information from data, creating machine/deep learn
 *   🧠  I'm learning ML Deployment techniques
 *   🤝  I'm open to collaborating on Machine learning projects, deep learning projects
 *   ⚡  I love dancing.
-*   
+
 
                    
   Tech Stack
