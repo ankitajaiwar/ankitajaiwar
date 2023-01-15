@@ -17,23 +17,22 @@ I have been working on mining information from data, creating machine/deep learn
   Tech Stack
   
   
-<b>Programming Languages</b>
-
+<b>Programming Languages:</b>
 Python  R 
 
-<b>IDEs/Editors</b>
+<b>IDEs/Editors:</b>
 Spyder, PyCharm, Jupyter, Google Collab, Sublime
 
-<b>Version Control</b>
+<b>Version Control:</b>
 Git  GitHub 
 
-<b>Databases</b>
+<b>Databases:</b>
 MySQL  Postgres  MongoDB 
 
-<b>Machine Learning/Deep Learning</b>
+<b>Machine Learning/Deep Learning:</b>
 Keras  TensorFlow  Scikit-Learn  Pandas  NumPy  
 
-<b> Visualization Tool </b>
+<b> Visualization Tool :</b>
 Tableau
                   
               
