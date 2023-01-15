@@ -10,11 +10,31 @@ I have been working on mining information from data, creating machine/deep learn
 *   ✉️  You can contact me at [ankita.jai92@gmail.com](mailto:ankita.jai92@gmail.com)
 *   🧠  I'm learning ML Deployment techniques
 *   🤝  I'm open to collaborating on Machine learning projects, deep learning projects
-*   ⚡  I love dancing.### Skills 
+*   ⚡  I love dancing.
+*   
+*   ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
                    
-                  
+  Tech Stack
+<b>Programming Languages</b>
+
+Python  R 
+
+<b>IDEs/Editors</b>
+Spyder, PyCharm, Jupyter, Google Collab, Sublime
+
+<b>Version Control</b>
+Git  GitHub 
+
+<b>Databases</b>
+MySQL  Postgres  MongoDB 
+
+<b>Machine Learning/Deep Learning</b>
+Keras  TensorFlow  Scikit-Learn  Pandas  NumPy  
+
+<b> Visualization Tool </b>
+Tableau
                   
               
