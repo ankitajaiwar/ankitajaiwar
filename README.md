@@ -34,5 +34,8 @@ Keras  TensorFlow  Scikit-Learn  Pandas  NumPy
 
 <b> Visualization Tool :</b>
 Tableau
+
+<b> Cloud Services: </b>
+AWS EC2, SageMaker, ElasticBeanstalk, Google Collab, Azure Web App
                   
               
