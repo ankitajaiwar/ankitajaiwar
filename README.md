@@ -12,9 +12,30 @@ I have been working on mining information from data, creating machine/deep learn
 *   🤝  I'm open to collaborating on Machine learning projects, deep learning projects
 *   ⚡  I love dancing.
 
+Highlighted Projects
+-------------------------
+
+<b>1. Generic ML <b>
+   An end to end machine learning regression project utilizing various regression models to predict the student's performance based on features like parental education level, performance in other subjects,
+   daily lunch type etc. The project is titled Generic ML as it is written in such a way that project structure and most of the code can be reused with any regression dataset. The EDA can be performed for the new dataset separately and data handling can be modified, most of the rest of the code can remain same.
+
+<b>2. Chicken Disease Classificatin - a CNN project</b>
+   
+<b>4. End to End Text Summarization (NLP) </b>
+
+<b>5. AWS Sagemaker example</b>
+
+<b>6. End-to-End Cell Segmentation Using Yolo V8
+
+<b>7. Audio Classification Project
+
+
+
+(Part 1) 
 
                    
   Tech Stack
+  -------------------------
   
   
 <b>Programming Languages:</b>
@@ -43,6 +64,8 @@ Flask, FastAPI
 
 <b> MLOPs: </b>
 Docker, DVC
+
+
 
 
                   
