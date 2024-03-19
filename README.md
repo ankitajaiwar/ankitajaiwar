@@ -15,7 +15,8 @@ I have been working on mining information from data, creating machine/deep learn
 Highlighted Projects
 -------------------------
 
-<b>1. Generic ML <b>
+<b>1. [Generic ML]https://github.com/ankitajaiwar/GenericML </b>
+
    An end to end machine learning regression project utilizing various regression models to predict the student's performance based on features like parental education level, performance in other subjects,
    daily lunch type etc. The project is titled Generic ML as it is written in such a way that project structure and most of the code can be reused with any regression dataset. The EDA can be performed for the new dataset separately and data handling can be modified, most of the rest of the code can remain same.
 
