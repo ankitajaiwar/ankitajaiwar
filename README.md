@@ -34,7 +34,7 @@ Highlighted Projects
 
 <b>6. Audio Classification Project
 
-<b>7. Langchain - Celebrity Search Project <\b>
+<b>7. Langchain - Celebrity Search Project </b>
 
 
 
@@ -44,30 +44,39 @@ Highlighted Projects
   
   
 <b>Programming Languages:</b>
+
 Python  
 
 <b>IDEs/Editors:</b>
+
 VS Code, Spyder, PyCharm, Jupyter, Google Collab, Sublime
 
 <b>SDLC Tools:</b>
+
 jira, Confluence, Github
 
 <b>Databases:</b>
+
 MySQL  Postgres  MongoDB 
 
 <b>Machine Learning/Deep Learning:</b>
+
 Keras  TensorFlow  Scikit-Learn  Pandas  NumPy, Matplotlib, Seaborn  
 
 <b> Visualization Tool :</b>
+
 Tableau
 
 <b> Cloud Services: </b>
+
 AWS EC2, SageMaker, ElasticBeanstalk, Google Collab, Azure Web App
 
 <b> Web Frameworks </b>
+
 Flask, FastAPI
 
 <b> MLOPs: </b>
+
 Docker, DVC
 
 
