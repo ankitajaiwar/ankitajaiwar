@@ -36,15 +36,35 @@ Highlighted Projects
 
 <b>7. Langchain - Celebrity Search Project </b>
 
-- **Programming Languages**: Python
-- **IDEs/Editors**: VS Code, Spyder, PyCharm, Jupyter, Google Collab, Sublime
-- **SDLC Tools**: Jira, Confluence, GitHub
-- **Databases**: MySQL, Postgres, MongoDB
-- **Machine Learning/Deep Learning**: Keras, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization Tool**: Tableau
-- **Cloud Services**: AWS EC2, SageMaker, ElasticBeanstalk, Google Collab, Azure Web App
-- **Web Frameworks**: Flask, FastAPI
-- **MLOps**: Docker, DVC
+## Tech Stack
+
+### Programming Languages
+- **Python**
+
+### IDEs/Editors
+- **VS Code**, Spyder, PyCharm, Jupyter, Google Collab, Sublime
+
+### SDLC Tools
+- **Jira**, Confluence, GitHub
+
+### Databases
+- **MySQL**, Postgres, MongoDB
+
+### Machine Learning/Deep Learning
+- **Keras**, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+
+### Visualization Tool
+- **Tableau**
+
+### Cloud Services
+- **AWS EC2**, SageMaker, ElasticBeanstalk, Google Collab, Azure Web App
+
+### Web Frameworks
+- **Flask**, FastAPI
+
+### MLOps
+- **Docker**, DVC
+
 
 
 
