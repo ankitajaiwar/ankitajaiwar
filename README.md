@@ -41,17 +41,14 @@ Highlighted Projects
 ### Programming Languages
 - **Python**
 
-### IDEs/Editors
-- **VS Code**, Spyder, PyCharm, Jupyter, Google Collab, Sublime
+### Machine Learning/Deep Learning
+- **Keras**, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ### SDLC Tools
 - **Jira**, Confluence, GitHub
 
 ### Databases
 - **MySQL**, Postgres, MongoDB
-
-### Machine Learning/Deep Learning
-- **Keras**, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ### Visualization Tool
 - **Tableau**
@@ -64,6 +61,9 @@ Highlighted Projects
 
 ### MLOps
 - **Docker**, DVC
+
+### IDEs/Editors
+- **VS Code**, Spyder, PyCharm, Jupyter, Google Collab, Sublime
 
 
 
