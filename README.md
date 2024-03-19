@@ -43,41 +43,42 @@ Highlighted Projects
   -------------------------
   
   
-<b>Programming Languages:</b>
+## Programming Languages
 
-Python  
+**Python**
 
-<b>IDEs/Editors:</b>
+## IDEs/Editors
 
-VS Code, Spyder, PyCharm, Jupyter, Google Collab, Sublime
+**VS Code, Spyder, PyCharm, Jupyter, Google Collab, Sublime**
 
-<b>SDLC Tools:</b>
+## SDLC Tools
 
-jira, Confluence, Github
+**Jira, Confluence, GitHub**
 
-<b>Databases:</b>
+## Databases
 
-MySQL  Postgres  MongoDB 
+**MySQL, Postgres, MongoDB**
 
-<b>Machine Learning/Deep Learning:</b>
+## Machine Learning/Deep Learning
 
-Keras  TensorFlow  Scikit-Learn  Pandas  NumPy, Matplotlib, Seaborn  
+**Keras, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn**
 
-<b> Visualization Tool :</b>
+## Visualization Tool
 
-Tableau
+**Tableau**
 
-<b> Cloud Services: </b>
+## Cloud Services
 
-AWS EC2, SageMaker, ElasticBeanstalk, Google Collab, Azure Web App
+**AWS EC2, SageMaker, ElasticBeanstalk, Google Collab, Azure Web App**
 
-<b> Web Frameworks </b>
+## Web Frameworks
 
-Flask, FastAPI
+**Flask, FastAPI**
 
-<b> MLOPs: </b>
+## MLOps
 
-Docker, DVC
+**Docker, DVC**
+
 
 
 
