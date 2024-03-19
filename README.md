@@ -32,11 +32,11 @@ Highlighted Projects
 
 <b>5. AWS Sagemaker example</b>
 
-<b>7. Audio Classification Project
+<b>6. Audio Classification Project
+
+<b>7. Langchain - Celebrity Search Project <\b>
 
 
-
-(Part 1) 
 
                    
   Tech Stack
