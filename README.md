@@ -12,49 +12,70 @@ I have been working on mining information from data, creating machine/deep learn
 
 Highlighted Projects
 -------------------------
-
-<b>1. [Generic ML](https://github.com/ankitajaiwar/GenericML) </b>
+<b>1. [Validata](https://github.com/ankitajaiwar/Validata) </b>
+      datax-validator or Validata is a lightweight Python toolkit for validating, cleaning, and inspecting datasets with ease.
+   Built for data scientists and engineers, it offers fast checks, schema enforcement, and clear reports.
+   Perfect for ensuring data quality before analysis or deployment.
+   
+<b>2. [Generic ML](https://github.com/ankitajaiwar/GenericML) </b>
 
    An end to end machine learning regression project utilizing various regression models to predict the student's performance based on features like parental education level, performance in other subjects,
    daily lunch type etc. The project is titled Generic ML as it is written in such a way that project structure and most of the code can be reused with any regression dataset. The EDA can be performed for the new dataset separately and data handling can be modified, most of the rest of the code can remain same.
 
-<b>2. [Chicken Disease Classificatin - a CNN project](https://github.com/ankitajaiwar/Chicken-Disease-Classification)</b>
+<b>3. [Chicken Disease Classificatin - a CNN project](https://github.com/ankitajaiwar/Chicken-Disease-Classification)</b>
 
    This project aims to address the challenge of identifying diseases in chickens using Convolutional Neural Networks (CNNs).This project leverages Python for scripting and development, TensorFlow/Keras for building and training machine learning models, Docker for containerization, Flask for serving the model as a web application, Git for version control, GitHub Actions for continuous integration and continuous deployment (CI/CD), and Data Version Control (DVC) for managing and versioning datasets.
    
-<b>3. [End to End Text Summarization (NLP)](https://github.com/ankitajaiwar/Text-summarizer) </b>
+<b>4. [End to End Text Summarization (NLP)](https://github.com/ankitajaiwar/Text-summarizer) </b>
 
    End-to-End Text Summarization in Natural Language Processing (NLP) refers to the process of automatically generating concise and coherent summaries from longer text documents or articles. The advanced abstractive text summarization model PEGASUS from the Hugging Face library has been utilized.
 
-## Tech Stack
+## 🚀 Tech Stack
 
-### Programming Languages
-- **Python**
+### 🖥️ Programming Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Machine Learning/Deep Learning
-- **Keras**, TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+### 🤖 Machine Learning / Deep Learning
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- Pandas, NumPy, Matplotlib, Seaborn
 
-### SDLC Tools
-- **Jira**, Confluence, GitHub
+### 📊 Data Science / AI Tools
+- ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+- LangChain, OpenAI API
 
-### Databases
-- **MySQL**, Postgres, MongoDB
+### 🛠️ SDLC & Collaboration
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+- ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- GitLab
 
-### Visualization Tool
-- **Tableau**
+### 🗄️ Databases
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+- MySQL, MongoDB, SQLite
 
-### Cloud Services
-- **AWS EC2**, SageMaker, ElasticBeanstalk, Google Collab, Azure Web App
+### 📈 Data Visualization
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- Power BI, Plotly
 
-### Web Frameworks
-- **Flask**, FastAPI
+### ☁️ Cloud & Compute
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) (EC2, SageMaker, Elastic Beanstalk, S3)
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) (Web App, ML)
+- Google Colab
 
-### MLOps
-- **Docker**, DVC
+### 🌐 Web Frameworks / APIs
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+- Flask, Streamlit
 
-### IDEs/Editors
-- **VS Code**, Spyder, PyCharm, Jupyter, Google Collab, Sublime
+### ⚙️ MLOps / DevOps
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- Kubernetes, DVC, MLflow
 
+### 🖋️ IDEs / Editors
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- PyCharm, JupyterLab, Google Colab, Spyder, Sublime Text
 
 
 
