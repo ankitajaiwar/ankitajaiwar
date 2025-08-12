@@ -34,6 +34,7 @@ Highlighted Projects
 
 ### 🖥️ Programming Languages
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### 🤖 Machine Learning / Deep Learning
 - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -61,8 +62,8 @@ Highlighted Projects
 - Power BI, Plotly
 
 ### ☁️ Cloud & Compute
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) (EC2, SageMaker, Elastic Beanstalk, S3)
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) (Web App, ML)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) (EC2, SageMaker, S3)
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
 - Google Colab
 
 ### 🌐 Web Frameworks / APIs
