@@ -13,7 +13,6 @@ I have been working on mining information from data, creating machine/deep learn
 Highlighted Projects
 -------------------------
 <b>1. [Validata/datax-validator](https://github.com/ankitajaiwar/Validata) </b>
-
       datax-validator or Validata is a lightweight Python toolkit for validating, cleaning, and inspecting datasets with ease.
    Built for data scientists and engineers, it offers fast checks, schema enforcement, and clear reports.
    Perfect for ensuring data quality before analysis or deployment.
