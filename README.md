@@ -4,13 +4,11 @@ Hi 👋 My name is Ankita Singh
 Data Scientist
 ---------------------------
 
-I have been working on mining information from data, creating machine/deep learning models for tabular data, computer vision, NLP and time series analysis for past 6 years. I am currently a Data Scientist at Cognomotiv. Over the course of my research and work years, I have become highly skilled in deep/machine learning, data mining, data modelling/analysis, Python, Keras, TensorFlow, scikit-learn and I love learning new things. I am interested in using my skills and expertise to contribute towards building new products and experiences for consumers, as well as have a positive impact on the way we all work and live moving into the future.
+I have been working on mining information from data, creating machine/deep learning models for tabular data, computer vision, NLP and time series analysis for past 8 years. Over the course of my research and work years, I have become highly skilled in deep/machine learning, data mining, data modelling/analysis, Python, Keras, TensorFlow, scikit-learn and I love learning new things.
 
-*   🌍  I'm based in Pennsylvania
-*   ✉️  You can contact me at [ankita.jai92@gmail.com](mailto:ankita.jai92@gmail.com)
-*   🧠  I'm learning ML Deployment techniques
+*   🌍  I'm based in New Jersey
 *   🤝  I'm open to collaborating on Machine learning projects, deep learning projects
-*   ⚡  I love dancing.
+*   ⚡  I love dancing, painting and exploring outdoors. 
 
 Highlighted Projects
 -------------------------
@@ -26,15 +24,7 @@ Highlighted Projects
    
 <b>3. [End to End Text Summarization (NLP)](https://github.com/ankitajaiwar/Text-summarizer) </b>
 
-   End-to-End Text Summarization in Natural Language Processing (NLP) refers to the process of automatically generating concise and coherent summaries from longer text documents or articles. the advanced abstractive text summarization model PEGASUS from the Hugging Face library has been utilized.
-
-<b>4. End-to-End Cell Segmentation Using Yolo V8
-
-<b>5. AWS Sagemaker example</b>
-
-<b>6. Audio Classification Project
-
-<b>7. Langchain - Celebrity Search Project </b>
+   End-to-End Text Summarization in Natural Language Processing (NLP) refers to the process of automatically generating concise and coherent summaries from longer text documents or articles. The advanced abstractive text summarization model PEGASUS from the Hugging Face library has been utilized.
 
 ## Tech Stack
 
